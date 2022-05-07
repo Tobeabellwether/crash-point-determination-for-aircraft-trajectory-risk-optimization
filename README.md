@@ -5,6 +5,4 @@ This project is the code part of my bachelor thesis in TU Clausthal:
 
 The purpose of uploading this project is to make it easier for future users to use and understand the existing problems and make improvements.
 
-Here is a [***detailed annotated basic version of the code***](thesis.ipynb), which can be improved for further use.
-
 ![avatar](thesis.png)
