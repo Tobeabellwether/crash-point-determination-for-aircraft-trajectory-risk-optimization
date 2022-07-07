@@ -1,4 +1,4 @@
-# Crash Point Determination for Aircraft Trajectory Risk Optimization
+# Crash Point Determination for Aircraft Trajectory Risk Optimization (Bachelor Thesis)
 
 ![Thesis_page-0001](https://user-images.githubusercontent.com/24925361/177883477-6e73be65-b537-4495-8965-54f6cb7f5a10.jpg)
 ![Thesis_page-0002](https://user-images.githubusercontent.com/24925361/177883492-75092538-2803-4434-a758-a47015453570.jpg)
