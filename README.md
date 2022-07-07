@@ -1,8 +1,52 @@
 # Crash Point Determination for Aircraft Trajectory Risk Optimization
-This project is the code part of my bachelor thesis in TU Clausthal: 
-[
-***Implementation and Evaluation of Metrics for Crash Point Determination for Aircraft Trajectory Risk Optimization***](tuc-thesis_final.pdf)
 
-The purpose of uploading this project is to make it easier for future users to use and understand the existing problems and make improvements.
+![Thesis_page-0001](https://user-images.githubusercontent.com/24925361/177883477-6e73be65-b537-4495-8965-54f6cb7f5a10.jpg)
+![Thesis_page-0002](https://user-images.githubusercontent.com/24925361/177883492-75092538-2803-4434-a758-a47015453570.jpg)
+![Thesis_page-0003](https://user-images.githubusercontent.com/24925361/177883501-887f4581-57ed-4fbe-9408-c108814933ae.jpg)
+![Thesis_page-0004](https://user-images.githubusercontent.com/24925361/177883504-58aa6b90-c543-41ba-87cd-53ccd961264d.jpg)
+![Thesis_page-0005](https://user-images.githubusercontent.com/24925361/177883510-faa611d5-260b-4e7b-aa3a-87cacac88fa1.jpg)
+![Thesis_page-0006](https://user-images.githubusercontent.com/24925361/177883517-da0891aa-160a-429a-86c3-d51c04b05493.jpg)
+![Thesis_page-0007](https://user-images.githubusercontent.com/24925361/177883524-47d918ed-2fdb-4be3-8420-40ba5738f17a.jpg)
+![Thesis_page-0008](https://user-images.githubusercontent.com/24925361/177883537-b8dcae6a-9f66-4324-9422-7ccf776ba915.jpg)
+![Thesis_page-0009](https://user-images.githubusercontent.com/24925361/177883547-acc7a086-7b48-493b-98b7-7db05ece9221.jpg)
+![Thesis_page-0010](https://user-images.githubusercontent.com/24925361/177883548-f12c47ba-3923-44d4-934d-5f49639cc930.jpg)
+![Thesis_page-0011](https://user-images.githubusercontent.com/24925361/177883554-c283b835-a056-436b-8417-7bee07dee042.jpg)
+![Thesis_page-0012](https://user-images.githubusercontent.com/24925361/177883557-85c7c839-e35f-46e3-b9ff-60b73a3a5707.jpg)
+![Thesis_page-0013](https://user-images.githubusercontent.com/24925361/177883561-c7b276d4-fe30-4d0d-899a-fb1968454307.jpg)
+![Thesis_page-0014](https://user-images.githubusercontent.com/24925361/177883568-72b76d42-5d38-4368-9185-27b7568787dc.jpg)
+![Thesis_page-0015](https://user-images.githubusercontent.com/24925361/177883572-e7b76b3a-71f7-40d5-b11c-ea0c1c09dcfc.jpg)
+![Thesis_page-0016](https://user-images.githubusercontent.com/24925361/177883576-a3994878-7cea-421f-a0e1-3e758d8bbfd8.jpg)
+![Thesis_page-0017](https://user-images.githubusercontent.com/24925361/177883581-406a3575-1dde-48d8-94a8-e3a9648aeea9.jpg)
+![Thesis_page-0018](https://user-images.githubusercontent.com/24925361/177883586-fef3012e-0a34-475b-8d73-8e3201d3e0e0.jpg)
+![Thesis_page-0019](https://user-images.githubusercontent.com/24925361/177883596-46f4a84d-e0b6-4d65-8ab3-ec034059a295.jpg)
+![Thesis_page-0020](https://user-images.githubusercontent.com/24925361/177883598-48a766ee-e099-487c-aff4-889ac71bc503.jpg)
+![Thesis_page-0021](https://user-images.githubusercontent.com/24925361/177883604-73744887-4d3e-4e24-865a-a87c5d4041b0.jpg)
+![Thesis_page-0022](https://user-images.githubusercontent.com/24925361/177883608-e2e5499b-4715-411c-974f-89fa7e293200.jpg)
+![Thesis_page-0023](https://user-images.githubusercontent.com/24925361/177883612-4248b98c-913e-4ca7-9f4b-905c8a482160.jpg)
+![Thesis_page-0024](https://user-images.githubusercontent.com/24925361/177883616-2bfa21fd-961e-44e0-9c6c-95acc64b5182.jpg)
+![Thesis_page-0025](https://user-images.githubusercontent.com/24925361/177883622-7aaeefa8-43f8-4a22-9e40-a0171838a371.jpg)
+![Thesis_page-0026](https://user-images.githubusercontent.com/24925361/177883628-19d1a782-920f-4625-b011-8822f5d90e57.jpg)
+![Thesis_page-0027](https://user-images.githubusercontent.com/24925361/177883632-00381844-dd5f-4e75-8463-72a5e8517a18.jpg)
+![Thesis_page-0028](https://user-images.githubusercontent.com/24925361/177883635-5f623f00-2831-486c-a0df-ee8838f81aab.jpg)
+![Thesis_page-0029](https://user-images.githubusercontent.com/24925361/177883641-16b33d76-83cc-4abd-86d3-32f247150573.jpg)
+![Thesis_page-0030](https://user-images.githubusercontent.com/24925361/177883647-16791e7d-a2db-4ed7-83a2-8187ec66fe23.jpg)
+![Thesis_page-0031](https://user-images.githubusercontent.com/24925361/177883655-44fa52cd-0e50-48a7-a4d5-878d41506b54.jpg)
+![Thesis_page-0032](https://user-images.githubusercontent.com/24925361/177883659-dc4ad20c-650c-4b86-ae55-51dbe252e82b.jpg)
+![Thesis_page-0033](https://user-images.githubusercontent.com/24925361/177883667-bc8c8dd5-00dc-4e91-a636-854d3c70c81f.jpg)
+![Thesis_page-0034](https://user-images.githubusercontent.com/24925361/177883683-d1c37cf1-9c8b-4780-a82e-5f97256f32bc.jpg)
+![Thesis_page-0035](https://user-images.githubusercontent.com/24925361/177883689-73e74b6a-a10c-40ca-a871-b756ca40329a.jpg)
+![Thesis_page-0036](https://user-images.githubusercontent.com/24925361/177883717-dd5735f4-9f6d-4045-844f-9a393fca8542.jpg)
+![Thesis_page-0037](https://user-images.githubusercontent.com/24925361/177883723-47fb637e-1b71-40d8-a2ef-dd2c4ff2bed7.jpg)
+![Thesis_page-0038](https://user-images.githubusercontent.com/24925361/177883739-774b44cd-f5ed-45d5-b801-c8a72c357dcc.jpg)
+![Thesis_page-0039](https://user-images.githubusercontent.com/24925361/177883748-43dd744e-ba00-4cb2-aced-ea0b8e501edf.jpg)
+![Thesis_page-0040](https://user-images.githubusercontent.com/24925361/177883752-aeb0a1d7-687f-4138-b4fa-90a42f6417ad.jpg)
+![Thesis_page-0041](https://user-images.githubusercontent.com/24925361/177883757-77259a35-5513-427a-a527-d3a2108d39d0.jpg)
+![Thesis_page-0042](https://user-images.githubusercontent.com/24925361/177883764-aa38beb0-5c90-452f-b252-bbd095d6586c.jpg)
+![Thesis_page-0043](https://user-images.githubusercontent.com/24925361/177883773-839e1c05-00d1-4836-b58d-b6c2b43f664a.jpg)
 
-![avatar](thesis.png)
+
+
+
+
+
+
